@@ -3,17 +3,17 @@
 <div align="center">
   
 ### :wave: Hi! I'm Jisu :wave:
-I'm studying **web development**. <br>
+I'm studying **web development**. <br><br><br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br><br>
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-<br><br><br>
+<br><br>
 **[ Backend & DB ]**<br><br>
 ![SpringBoot badge](https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)
 ![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
-<br><br><br>
+<br><br>
 **[ Frontend ]**<br><br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
