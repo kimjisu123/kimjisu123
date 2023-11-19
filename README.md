@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=Ji%20su&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=JISU&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
 
 <div align="center">
   
@@ -19,6 +19,7 @@ I'm studying **web development**. <br><br><br>
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)<br>
 
+**[ Commnunication ]**<br><br>
 
 
 <div align="center">
