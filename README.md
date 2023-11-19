@@ -3,7 +3,7 @@
 <div align="center">
   
 ### :wave: Hi! I'm Jisu :wave:
-My major is **Computer Engineering**.<br> I'm studying **web development**. <br>
+I'm studying **web development**. <br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
