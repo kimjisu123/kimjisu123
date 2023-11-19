@@ -6,7 +6,7 @@
 I'm studying **web development**. <br>
 
 ### 🛠️ Skills 🛠️
-**[ Programming Languages ]**<br>
+**[ Programming Languages ]**<br><br>
 ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 <br><br><br>
