@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=Tae%20young&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=Ji%20su&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
 
 <div align="center">
   
