@@ -20,8 +20,8 @@ I'm studying **web development**. <br><br><br>
 ![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)<br>
 
 **[ Commnunication ]**<br><br>
-![github badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)
-![git badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 <div align="center">
 
