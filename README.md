@@ -3,7 +3,7 @@
 <div align="center">
   
 ### :wave: Hi! I'm Jisu :wave:
-I'm studying **web development**. <br><br><br>
+<br>I'm studying **web development**. <br><br><br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br><br>
