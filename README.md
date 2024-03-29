@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:78BB7B,100:30B2A2&height=170&section=header&text=JISU&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
 
 <div align="center">
-  
+
 ### :wave: Hi! I'm Jisu :wave:
 <br>I'm studying **web development**. <br><br><br>
 
@@ -23,9 +23,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-
-<div align="center">
-
-</div>
-
+**[ Projects ]**<br><br>
+[<img src="https://img.shields.io/badge/DummyTalk-20232a.svg?style=for-the-badge" />](https://github.com/kimjisu123/DummyTalk_back)
+[<img src="https://img.shields.io/badge/Autocs-g.svg?style=for-the-badge" />](https://github.com/kimjisu123/AUTOCS-Spring)
+[<img src="https://img.shields.io/badge/Dourbest-red.svg?style=for-the-badge" />](https://github.com/kimjisu123/DourBestBySpringBoot)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:78BB7B,100:30B2A2)
