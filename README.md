@@ -23,11 +23,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
+**[ Algorithm ]**<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jicoding)](https://solved.ac/jicoding)
+
 **[ Projects ]**<br><br>
 [<img src="https://img.shields.io/badge/DummyTalk-20232a.svg?style=for-the-badge" />](https://github.com/kimjisu123/DummyTalk_back)
 [<img src="https://img.shields.io/badge/Autocs-g.svg?style=for-the-badge" />](https://github.com/kimjisu123/AUTOCS-Spring)
 [<img src="https://img.shields.io/badge/Dourbest-red.svg?style=for-the-badge" />](https://github.com/kimjisu123/DourBestBySpringBoot)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:78BB7B,100:30B2A2)
 
-**[ Algorithm ]**<br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
