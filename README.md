@@ -28,3 +28,6 @@
 [<img src="https://img.shields.io/badge/Autocs-g.svg?style=for-the-badge" />](https://github.com/kimjisu123/AUTOCS-Spring)
 [<img src="https://img.shields.io/badge/Dourbest-red.svg?style=for-the-badge" />](https://github.com/kimjisu123/DourBestBySpringBoot)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:78BB7B,100:30B2A2)
+
+**[ Algorithm ]**<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
